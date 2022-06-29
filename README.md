@@ -30,7 +30,7 @@ also has the functionality to support websites created in R with
 [Quarto](https://quarto.org), and so I may also rename the package.
 
 An article on `distilltools`, and my intentions for it, is featured in
-[The Future of Sata Science](http://datasciencebydesign.org/book)
+[The Future of Data Science](http://datasciencebydesign.org/book)
 anthology (written October 2021, published June 2022).
 
 ## Installation
